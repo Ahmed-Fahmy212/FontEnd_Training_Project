@@ -11,8 +11,8 @@ link to try website
 
 <div align="center">
 ### > **[Video Preview Link](
-https://jam.dev/c/1774f095-988d-4e77-b2c7-4462fc3722db
-)
+[https://jam.dev/c/1774f095-988d-4e77-b2c7-4462fc3722db
+](https://jam.dev/c/1774f095-988d-4e77-b2c7-4462fc3722db))
 this is video record.
 
 </div>
