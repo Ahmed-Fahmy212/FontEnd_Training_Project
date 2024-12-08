@@ -1,7 +1,5 @@
 # LRX-Kasper 
 
-## Website Preview
-
 ## Video Preview 🎥🎉
 
 Check out the video preview of the project:
