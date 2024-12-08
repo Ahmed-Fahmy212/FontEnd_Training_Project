@@ -14,16 +14,13 @@ Check out the video preview of the project:
    ![Website Preview](https://github.com/user-attachments/assets/a8c567fa-e298-4fc9-a9f9-4ff3da360739)
 
 </div>
-
+---
 
 ## Try the Website
 
 You can try the website by visiting the link below:
 
 [**Live Website**](https://ahmed-fahmy212.github.io/LRX-Kasper/)
-
----
-
 
 
 ---
