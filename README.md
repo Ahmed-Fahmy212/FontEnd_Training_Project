@@ -1,17 +1,25 @@
-you can watch website here 
-![image](https://github.com/user-attachments/assets/a8c567fa-e298-4fc9-a9f9-4ff3da360739)
+# LRX-Kasper 
 
-link to try website
-<a>
-https://ahmed-fahmy212.github.io/LRX-Kasper/
-</a>
+## Website Preview
 
-## Video Preview 🎉
+You can watch the live website here:
+
+![Website Preview](https://github.com/user-attachments/assets/a8c567fa-e298-4fc9-a9f9-4ff3da360739)
+
+## Try the Website
+
+You can try the website by visiting the link below:
+
+[**Live Website**](https://ahmed-fahmy212.github.io/LRX-Kasper/)
+
+---
+
+## Video Preview 🎥🎉
+
+Check out the video preview of the project:
 
 <div align="center">
-### > **[Video Preview Link](
-[https://jam.dev/c/1774f095-988d-4e77-b2c7-4462fc3722db
-])
-this is video record.
-
+   <a href="https://jam.dev/c/1774f095-988d-4e77-b2c7-4462fc3722db" target="_blank">
+      <strong>Click here for the video preview</strong>
+   </a>
 </div>
